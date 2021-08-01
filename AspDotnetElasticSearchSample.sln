@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspDotnetElasticSearchSample", "AspDotnetElasticSearchSample\AspDotnetElasticSearchSample.csproj", "{AF770FF4-A07F-471E-9BE0-2BA40FEDBB0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF770FF4-A07F-471E-9BE0-2BA40FEDBB0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF770FF4-A07F-471E-9BE0-2BA40FEDBB0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF770FF4-A07F-471E-9BE0-2BA40FEDBB0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF770FF4-A07F-471E-9BE0-2BA40FEDBB0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65CFA3A6-3979-49C1-863A-C61FB8524FAB}
+	EndGlobalSection
+EndGlobal
